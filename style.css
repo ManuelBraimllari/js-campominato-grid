@@ -79,16 +79,6 @@ img{
 	background-color: rgb(162, 228, 156);
 }
 
-label{
-    font-size: large;
-    padding: .5rem;
-}
-
-
-select option:hover{
-   background-color: #a2e2ff;
-}
-
 footer{
     display: flex;
     align-items: center;
