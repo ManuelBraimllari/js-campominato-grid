@@ -50,4 +50,9 @@ eleBtn.addEventListener('click', function () {
             });
         }
     } 
-});*/
+});
+*/
+
+eleBtn.addEventListener('click', function () {
+   console.log('hello')
+}
