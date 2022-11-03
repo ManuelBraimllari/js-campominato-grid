@@ -4,7 +4,7 @@ const eleBtn = document.querySelector('#BTTN');
 const eleBenvenuto = document.querySelector('.benvenuto');
 
 eleBtn.addEventListener('click', function () {
-
+/*
     eleGrid.replaceChildren();
     eleGrid.classList.remove('hidden');
     eleBenvenuto.classList.add('hidden');
@@ -50,6 +50,4 @@ eleBtn.addEventListener('click', function () {
             });
         }
     } 
-});
-
-
+});*/
